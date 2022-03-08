@@ -1,2 +1,2 @@
 # drf-recipe
-Recipe app api
+**Recipe app api using Python and Django**
